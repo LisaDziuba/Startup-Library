@@ -1,7 +1,11 @@
 # Startup-Library
 
 ## Product Market Fit
+* [How to Find Product Market Fit](https://thestartupchat.com/ep371/) podcast by Steli Efti and Hiten Shah.
 
+_Product Market Fit is when people love your product, they want to use it and tell about it everyone they know. You need to look on urgency in using or buying your product, how much money or time users are ready to give. And how loud users ready to talk about the product._
+
+* []()
 
 ## M & A for startups
 * [x] [M&A Ladder: Position Your Startup To Sell it For More](http://blog.eladgil.com/2011/01/m-ladder-position-your-startup-to-sell.html)
@@ -11,7 +15,7 @@ _There is a hierarchy in the value of a startup to an acquirer. As you move up t
 
 ## Books
 
-* [] The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company by Bob Dorf and Steve Blank.
+* [ ] The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company by Bob Dorf and Steve Blank.
 
 _I'm reading it now. This is a 600+ page "how-to" guide, which requires attention and time. Most of info is covered in blogs or talks, but I'm curious to read this famous book._ 
 
