@@ -9,8 +9,14 @@ _Product Market Fit is when people love your product, they want to use it and te
 
 _Achieving product market fit is about tracking: Return usage: vital (Days: 1, 3, 30), NPS ( >50 is probably Product Market Fit), Payment Renewal Rate (Not Churn. Churn can be deceptive). Less important metrics: Signups is not as important as Active Users; Conversion Rates aren't super important_
 
+* [What does product market-fit feel like, in reality?](https://www.reddit.com/r/startups/comments/8nudnl/what_does_product_marketfit_feel_like_in_reality/)
 
-* []()
+_It's live discussion on how Product Market Fit looks in different startups. Found on Reddit._
+
+
+* Marc Andreessen explanation:
+
+_"You can always feel product/market fit when it's happening. The customers are buying the product just as fast as you can make it — or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can. Reporters are calling because they've heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck's."_
 
 ## M & A for startups
 * [x] [M&A Ladder: Position Your Startup To Sell it For More](http://blog.eladgil.com/2011/01/m-ladder-position-your-startup-to-sell.html) by Elad Gil
