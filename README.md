@@ -1,15 +1,21 @@
 # Startup-Library
 
 ## Product Market Fit
-* [How to Find Product Market Fit](https://thestartupchat.com/ep371/) podcast by Steli Efti and Hiten Shah.
+* [x] [How to Find Product Market Fit](https://thestartupchat.com/ep371/) podcast by Steli Efti and Hiten Shah.
 
 _Product Market Fit is when people love your product, they want to use it and tell about it everyone they know. You need to look on urgency in using or buying your product, how much money or time users are ready to give. And how loud users ready to talk about the product._
 
-* [How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0&t=3000s) by David Rusenko from Weebly
+* [x] [How To Find Product Market Fit](https://www.youtube.com/watch?v=0LNQxT9LvM0&t=3000s) by David Rusenko from Weebly
 
 _Achieving product market fit is about tracking: Return usage: vital (Days: 1, 3, 30), NPS ( >50 is probably Product Market Fit), Payment Renewal Rate (Not Churn. Churn can be deceptive). Less important metrics: Signups is not as important as Active Users; Conversion Rates aren't super important_
 
-* [What does product market-fit feel like, in reality?](https://www.reddit.com/r/startups/comments/8nudnl/what_does_product_marketfit_feel_like_in_reality/)
+* [x] [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) by Peter Reinhardt, co-founder and CEO of Segment
+
+_80% of all founders failed to find product market fit. It's very important to save as much cash as possible before finding product market fit to extend your runway. Step 1 of this approach you build, launch and iterate on several ideas until something magical happens…and that is product market fit.  After that everything gets easier, customer shows up and you can feel momentum._ 
+
+_It's easy to find the idea, and it is more difficult killing the wrong ones fast and you will probably find something._ 
+
+* [x] [What does product market-fit feel like, in reality?](https://www.reddit.com/r/startups/comments/8nudnl/what_does_product_marketfit_feel_like_in_reality/)
 
 _It's live discussion on how Product Market Fit looks in different startups. Found on Reddit._
 
