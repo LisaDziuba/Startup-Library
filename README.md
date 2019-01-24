@@ -52,3 +52,7 @@ _The Lean Startup methodology is based on Build – Measure – Learn cycle. Bui
 *
 * [Elad Gil](http://blog.eladgil.com/) blog
 
+## My podcasts:
+
+* [The Startup Chat](https://thestartupchat.com/) with Steli & Hiten
+
