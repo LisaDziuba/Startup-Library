@@ -36,6 +36,8 @@ _There is a hierarchy in the value of a startup to an acquirer. As you move up t
 
 _Checklist for any founder considering an acquisition offer: 1) Figure out if the person or team reaching out has decision-making power; 2) Look into the terms and people involved with past acquisitions that the company has done; 3) Map out the competitive landscape to get a sense of how valuable your company would be for the acquirer._
 
+* [ ] (Ten pieces of friendly VC advice for when someone wants to buy your company)[https://techcrunch.com/2018/12/16/ten-pieces-of-friendly-vc-advice-for-when-someone-wants-to-buy-your-company/?utm_source=quora&utm_medium=referral]
+
 ## Founders Stories
 
 * [x] [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7) by Gumroad founder, Sahil Lavingia.
